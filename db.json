@@ -1,0 +1,20 @@
+{
+   "data": {
+        "users": [
+          {
+            "Name": "Kanchan Ghanshyam Dhoot",
+            "Username": "abcd1234",
+            "Email": "kanchandhoot33@gmail.com",
+            "Phone": "+919970149635",
+            "id": 1
+          },
+          {
+            "Name": "abcd",
+            "Username": "ab",
+            "Email": "abcd@",
+            "Phone": "8900",
+            "id": 2
+          }
+        ]
+      }
+}
